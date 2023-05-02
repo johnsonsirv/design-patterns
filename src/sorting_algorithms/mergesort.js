@@ -12,6 +12,13 @@ function merge(left, right) {
     sorted.concat(left, right);
 }
 
+/**
+ * Ideal for large datasets, especially when the dataset is unsorted or needs to be sorted in a stable way.
+ * Performs well with its time complexity of O(n log n) and has good worst-case 
+ * Often used for sorting linked lists
+ * @param {*} array 
+ * @returns 
+ */
 function merge_sort(array) {
     if (array.length <= 1) {
         return array;
