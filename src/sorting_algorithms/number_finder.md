@@ -39,3 +39,8 @@ Does your solution work in O(log n) time?
 Challenge 2
 What does your function do if the number cannot be found?
 ```
+
+
+
+## Solutions
+1. [Javascript](./number_finder.js)

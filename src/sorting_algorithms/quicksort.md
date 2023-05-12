@@ -27,6 +27,13 @@ For example, let's say we have an array of numbers: [5, 3, 8, 4, 2]. We can choo
 
 We then repeat the process with the two sub-arrays, choosing a pivot and partitioning each sub-array until we have a fully sorted array.
 
+## Use case
+ * Ideal for large datasets, 
+ * Dataset is unordered or randomly ordered.
+ * Performs well on average, 
+ * has worst-case time complexity of O(n^2) in some cases (with bad pivot).
+ * standard sorting algorithm for many programming languages and libraries.
+
 ## The Moral of the Story
 
 Quick Sort is an efficient sorting algorithm that works by repeatedly pivoting and partitioning the array. The key to its efficiency is the choice of pivot value, which can greatly affect the number of times the partitioning process needs to be repeated. By choosing a good pivot value, Quick Sort can sort large datasets quickly and efficiently.

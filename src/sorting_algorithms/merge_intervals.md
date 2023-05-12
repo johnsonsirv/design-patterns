@@ -30,3 +30,7 @@ Also, the implementation assumes that the input intervals are sorted by their st
 Additionally, the implementation assumes that the input is well-formed, i.e., it does not contain any invalid or malformed intervals. If the input contains such intervals, the function may produce unexpected results.
 
 Therefore, it is important to handle all these edge cases to make the implementation more robust and accurate.
+
+
+## Solutions
+1. [Javascript](./merge_intervals.js)

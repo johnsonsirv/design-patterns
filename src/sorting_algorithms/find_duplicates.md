@@ -27,3 +27,5 @@ Challenge 1
 Have you taken care to avoid array out-of-bound runtime errors?
 ```
 
+## Solutions
+1. [Javascript](./find_duplicates.js)

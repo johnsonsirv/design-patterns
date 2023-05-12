@@ -20,6 +20,11 @@ Imagine you are at a library with a vast collection of books. The books are not 
 
 This story is a metaphor for the Merge Sort algorithm. The books represent the elements in the input array, and the sorted groups of books represent the two halves of the array. The comparison of books and selection of the book with the lower title represents the comparison of elements in the two halves of the array and selection of the smaller element.
 
+### Use cases
+ * Ideal for large datasets, especially when the dataset is unsorted or needs to be sorted in a stable way.
+ * Performs well with its time complexity of O(n log n) and has good worst-case 
+ * Often used for sorting linked lists
+
 ## Conclusion
 
 Merge Sort is a powerful sorting algorithm that sorts an array by dividing it into two halves, sorting the two halves, and then merging them. The engaging stories and metaphors we discussed above can help you understand the algorithm better and remember it for longer.

@@ -1,3 +1,22 @@
+## Exploring Algorithms & Data Structures
+Explore algorithms and data structures. Practice, discover patterns in coding, & develop strong coding skills.
+### Sorting Algorithms
+1. Merge Sort [Readme](./src/sorting_algorithms/mergesort.md)
+2. Quick Sort [Readme](./src/sorting_algorithms/quicksort.md)
+3. Insertion Sort [Readme](./src/sorting_algorithms/insertion_sort.md)
+
+### Search Algorithms
+1. Binary Search [Readme](./src/search_algorithms/binary_search.md)
+
+
+### > Coding Examples on Sorting & Searching
+1. [Find Duplicates](./src/sorting_algorithms/find_duplicates.md)
+2. [Merge Intervals](./src/sorting_algorithms/merge_intervals.md)
+3. [Number Finder](./src/sorting_algorithms/number_finder.md)
+
+### Trees & Graphs
+[WIP]()
+
 ## Exploring Design Patterns
 
 Using real-world examples to explore and explain design patterns, that is the aim of this project.
@@ -18,13 +37,12 @@ design problem in your code.`
 #### A. Creational Patterns
 
 1. [Factory Method](./factory/factory.md)
-2. Singleton
-3. Builder
-4. Singleton
-5. Prototype
+2. Singleton: [WIP]()
+3. Builder: [WIP]()
+5. Prototype: [WIP]()
 
 #### B. Structural Patterns
-Coming soon
+[WIP]()
 
 #### C. Behavioral Patterns
-Coming soon
+[WIP]()

@@ -9,7 +9,7 @@ function merge(left, right) {
         }
     }
 
-    sorted.concat(left, right);
+    return sorted.concat(left, right);
 }
 
 /**
@@ -35,5 +35,5 @@ function merge_sort(array) {
 
 
 const arr = [8, 6, 4, 3, 5, 3, 2, 1];
-const arr2 = [7, 2, 1, 6, 8, 5, 3, 4];
+// const arr2 = [7, 2, 1, 6, 8, 5, 3, 4];
 console.log(merge_sort(arr));
